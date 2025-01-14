@@ -15,7 +15,7 @@ Hello, I'm **Maist Sama Iqbal**! Welcome to my GitHub repository. Here's a bit a
 - 🤖 Passionate about **AI Models** and **Machine Learning**
 
 ## 🧑‍💻 Let's Connect!
-- [![LinkedIn] (linkedin.com/in/maist-sama-iqbal-0a7b51292)
+- [![LinkedIn](linkedin.com/in/maist-sama-iqbal-0a7b51292)
 
 🚀Thanks for stopping by! 😊
 
