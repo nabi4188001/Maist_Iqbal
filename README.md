@@ -1,9 +1,9 @@
 # About Me 👋
 
-Hello, I'm **Maist**! Welcome to my GitHub repository. Here's a bit about me:
+Hello, I'm **Maist**! Welcome to my GitHub page. Here's a bit about me:
 
 ## 🎓 Education
-- **First Year** Bachelor of AI at **Vistula University**, Poland  
+- **First Year** Bachelor of AI at **Vistula University**📍, Poland  
 - **Sub-major** in **Computer Science**
 
 ## 💼 Work Experience
