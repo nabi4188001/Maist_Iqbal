@@ -11,6 +11,14 @@ Hello, I'm **Maist**! Welcome to my GitHub repository. Here's a bit about me:
   - Teaching **AI Models** and **Network Security**
 
 ## 🔧 Skills & Interests
+## 🔧 Programming Languages
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+
+
 - 🐍 **Favorite Programming Language**: **Python**
 - 🤖 Passionate about **AI Models** and **Machine Learning**
 
