@@ -1,6 +1,6 @@
 # About Me 👋
 
-Hello, I'm **Maist Sama Iqbal**! Welcome to my GitHub repository. Here's a bit about me:
+Hello, I'm **Maist**! Welcome to my GitHub repository. Here's a bit about me:
 
 ## 🎓 Education
 - **First Year** Bachelor of AI at **Vistula University**, Poland  
@@ -15,6 +15,7 @@ Hello, I'm **Maist Sama Iqbal**! Welcome to my GitHub repository. Here's a bit a
 - 🤖 Passionate about **AI Models** and **Machine Learning**
 
 ## 🧑‍💻 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/maist-sama-iqbal-0a7b51292)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([linkedin.com/in/maist-sama-iqbal-0a7b51292](https://www.linkedin.com/in/maist-sama-iqbal-0a7b51292/)
 🚀Thanks for stopping by! 😊
 
+https://www.linkedin.com/in/maist-sama-iqbal-0a7b51292/
